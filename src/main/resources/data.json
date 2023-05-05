@@ -1,0 +1,23 @@
+{
+  "student1": {
+    "id": 12345678,
+    "prename": "Kirill",
+    "surname": "Fedorov",
+    "address": {
+      "street": "Sovietskaya",
+      "postcode": 345895
+    },
+    "email": "kirill@mail.ru"
+  },
+
+  "student2": {
+    "id": 67454358,
+    "prename": "Egor",
+    "surname": "Vasiliev",
+    "address": {
+      "street": "Lenina",
+      "postcode": 682396
+    },
+    "email": "vasiliev_egor@google.com"
+  }
+}
